@@ -1,0 +1,912 @@
+{
+  "data": [
+    {
+      "code": "PGOWA",
+      "name": "Pdam Gowa"
+    },
+    {
+      "code": "PDAM5",
+      "name": "Pdam Batam"
+    },
+    {
+      "code": "PDAM4",
+      "name": "Pdam Ats Palembang"
+    },
+    {
+      "code": "PDAM6",
+      "name": "Pdam Batang"
+    },
+    {
+      "code": "PDAM11",
+      "name": "Pdam Giri Menang Mataram"
+    },
+    {
+      "code": "PDAM12",
+      "name": "Pdam Intan Banjar"
+    },
+    {
+      "code": "PDAM15",
+      "name": "Pdam Kabupaten Balangan"
+    },
+    {
+      "code": "PDAMBDG",
+      "name": "Pdam Kabupaten Bandung"
+    },
+    {
+      "code": "PDAMBDGBARAT",
+      "name": "Pdam Kabupaten Bandung Barat"
+    },
+    {
+      "code": "BANGKALAN",
+      "name": "Pdam Kabupaten Bangkalan"
+    },
+    {
+      "code": "KABBANYUMAS",
+      "name": "Pdam Kabupaten Banyumas"
+    },
+    {
+      "code": "KABBANYU",
+      "name": "Pdam Kabupaten Banyuwangi"
+    },
+    {
+      "code": "PBERABAI",
+      "name": "Pdam Kabupaten Barabai"
+    },
+    {
+      "code": "KABBATANG",
+      "name": "Pdam Kabupaten Batang"
+    },
+    {
+      "code": "PBLORA",
+      "name": "Pdam Kabupaten Blora"
+    },
+    {
+      "code": "KABBOGOR",
+      "name": "Pdam Kabupaten Bogor"
+    },
+    {
+      "code": "PBOJONEGORO",
+      "name": "Pdam Kabupaten Bojonegoro"
+    },
+    {
+      "code": "PBOYOLALI",
+      "name": "Pdam Kabupaten Boyolali"
+    },
+    {
+      "code": "PBONDOWOSO",
+      "name": "Pdam Kabupaten Bondowoso"
+    },
+    {
+      "code": "PBREBES",
+      "name": "Pdam Kabupaten Brebes"
+    },
+    {
+      "code": "PBULELENG",
+      "name": "Pdam Kabupaten Buleleng"
+    },
+    {
+      "code": "PCIAMIS",
+      "name": "Pdam Kabupaten Ciamis"
+    },
+    {
+      "code": "PCIANJUR",
+      "name": "Pdam Kabupaten Cianjur"
+    },
+    {
+      "code": "PCILACAP",
+      "name": "Pdam Kabupaten Cilacap"
+    },
+    {
+      "code": "PCIREBON",
+      "name": "Pdam Kabupaten Cirebon"
+    },
+    {
+      "code": "PGRESIK",
+      "name": "Pdam Kabupaten Gresik"
+    },
+    {
+      "code": "PJEMBER",
+      "name": "Pdam Kabupaten Jember"
+    },
+    {
+      "code": "PJOMBANG",
+      "name": "Pdam Kabupaten Jombang"
+    },
+    {
+      "code": "PKARANGANYAR",
+      "name": "Pdam Kabupaten Karanganyar"
+    },
+    {
+      "code": "KABKARAWANG",
+      "name": "Pdam Kabupaten Karawang"
+    },
+    {
+      "code": "PKEBUMEN",
+      "name": "Pdam Kabupaten Kebumen"
+    },
+    {
+      "code": "PKISARAN",
+      "name": "Pdam Kabupaten Kisaran"
+    },
+    {
+      "code": "PKLUNGKUNG",
+      "name": "Pdam Kabupaten Klungkung"
+    },
+    {
+      "code": "PKULONPROGO",
+      "name": "Pdam Kabupaten Kulonprogo"
+    },
+    {
+      "code": "PKUNINGAN",
+      "name": "Pdam Kabupaten Kuningan"
+    },
+    {
+      "code": "PLUMAJANG",
+      "name": "Pdam Kabupaten Lumajang"
+    },
+    {
+      "code": "PMALANG",
+      "name": "Pdam Kabupaten Malang"
+    },
+    {
+      "code": "PNIAS",
+      "name": "Pdam Kabupaten Nias"
+    },
+    {
+      "code": "PMOJOKERTO",
+      "name": "Pdam Kabupaten Mojokerto"
+    },
+    {
+      "code": "PPASAMAN",
+      "name": "Pdam Kabupaten Pasaman"
+    },
+    {
+      "code": "PPATI",
+      "name": "Pdam Kabupaten Pati"
+    },
+    {
+      "code": "PDAM2",
+      "name": "Pdam Aetra Tangerang"
+    },
+    {
+      "code": "PPEMALANG",
+      "name": "Pdam Kabupaten Pemalang"
+    },
+    {
+      "code": "PDAM14",
+      "name": "Pdam Kabupaten Badung"
+    },
+    {
+      "code": "PTEGAL",
+      "name": "Pdam Kabupaten Tegal"
+    },
+    {
+      "code": "PKOTATEGAL",
+      "name": "Pdam Kota Tegal"
+    },
+    {
+      "code": "PKOTAYOGYAKARTA",
+      "name": "Pdam Kota Yogyakarta"
+    },
+    {
+      "code": "PKOTAWISATABARU",
+      "name": "Pdam Kota Wisata Batu"
+    },
+    {
+      "code": "PKOTATOMOHON",
+      "name": "Pdam Kota Tomohon"
+    },
+    {
+      "code": "PKOTATERNATE",
+      "name": "Pdam Kota Ternate"
+    },
+    {
+      "code": "PTIRTABULIANTEBINGTINGGI",
+      "name": "Pdam Tirta Bulian Tebingtinggi"
+    },
+    {
+      "code": "PTIRTASUKAPURATASIKMALAYA",
+      "name": "Pdam Tirta Sukapura Kota Tasikmalaya"
+    },
+    {
+      "code": "PMUALNATIOTARUTUNG",
+      "name": "Pdam Mual Natio Tarutung"
+    },
+    {
+      "code": "PTIRTAKEPRITNJGPINANG",
+      "name": "Pdam Tirta Kepri Tanjungpinang"
+    },
+    {
+      "code": "PTIRTAKUALOTANJUNGBALAI",
+      "name": "Pdam Tirta Kualo Kota Tanjung Balai"
+    },
+    {
+      "code": "PTIRTABINARANTAUPTAPAT",
+      "name": "Pdam Tirtabina Rantauprapat"
+    },
+    {
+      "code": "PTIRTAULIPEMATANGSIANTAR",
+      "name": "Pdam Tirta Uli Pematang Siantar"
+    },
+    {
+      "code": "PPARIAMAN",
+      "name": "Pdam Pariaman"
+    },
+    {
+      "code": "PKOTAPAREPARE",
+      "name": "Pdam Kota Pare-pare"
+    },
+    {
+      "code": "PTIRTAPINANGPANGKALPINANG",
+      "name": "Pdam Tirta Pinang Pangkalpinang"
+    },
+    {
+      "code": "KABPALU",
+      "name": "Pdam Kota Palu"
+    },
+    {
+      "code": "PKOTAMAGELANG",
+      "name": "Pdam Kota Magelang"
+    },
+    {
+      "code": "PKOTALUBUKLINGGAU",
+      "name": "Pdam Kota Lubuk Linggau"
+    },
+    {
+      "code": "PTIRTAKEUMENENGLANGSA",
+      "name": "Pdam Tirta Keumeuneng Langsa"
+    },
+    {
+      "code": "PTIRTATUAHBENUAKUTAITIMUR",
+      "name": "Pdam Tirta Tuah Benua Kutai Timur"
+    },
+    {
+      "code": "PKOTAKENDARI",
+      "name": "Pdam Kota Kendari"
+    },
+    {
+      "code": "PDAMKANDA",
+      "name": "Pdam Kandangan (hulu Sungai Selatan)"
+    },
+    {
+      "code": "PKOTAGORONTALO",
+      "name": "Pdam Kota Gorontalo"
+    },
+    {
+      "code": "PTIRTADAROY",
+      "name": "Pdam Tirta Daroy"
+    },
+    {
+      "code": "PDAM10",
+      "name": "Pdam Cilegon Mandiri Kota Cilegon"
+    },
+    {
+      "code": "PTIRTAJAMGADANG",
+      "name": "Pdam Tirta Jam Gadang Kota Bukit Tinggi"
+    },
+    {
+      "code": "PKOTABONTANG",
+      "name": "Pdam Kota Bontang"
+    },
+    {
+      "code": "PDAM9",
+      "name": "Pdam Bone Watampone"
+    },
+    {
+      "code": "PKOTABLITAR",
+      "name": "Pdam Kota Blitar"
+    },
+    {
+      "code": "PDAM8",
+      "name": "Pdam Bima"
+    },
+    {
+      "code": "PWAJO",
+      "name": "Pdam Kabupaten Wajo"
+    },
+    {
+      "code": "PTUBAN",
+      "name": "Pdam Kabupaten Tuban"
+    },
+    {
+      "code": "PTULUNGAGUNG",
+      "name": "Pdam Kabupaten Tulungagung"
+    },
+    {
+      "code": "PTRENGGALEK",
+      "name": "Pdam Kabupaten Trenggalek"
+    },
+    {
+      "code": "PTINORTENGAHUTARA",
+      "name": "Pdam Timor Tengah Utara"
+    },
+    {
+      "code": "PTIRTAMUAROTEBO",
+      "name": "Pdam Tirta Muaro Kabupaten Tebo"
+    },
+    {
+      "code": "PTANJUNGJAPUNGBARAT",
+      "name": "Pdam Kabupaten Tanjung Jabung Barat"
+    },
+    {
+      "code": "PTANGERANG",
+      "name": "Pdam Kabupaten Tangerang"
+    },
+    {
+      "code": "PTABALONG",
+      "name": "Pdam Tabalong"
+    },
+    {
+      "code": "PSUMENEP",
+      "name": "Pdam Kabupaten Sumenep"
+    },
+    {
+      "code": "PSUMBAWA",
+      "name": "Pdam Sumbawa"
+    },
+    {
+      "code": "PSOLOK",
+      "name": "Pdam Kabupaten Solok"
+    },
+    {
+      "code": "PSINJAI",
+      "name": "Pdam Kabupaten Sinjai"
+    },
+    {
+      "code": "PSIKKA",
+      "name": "Pdam Kabupaten Sikka"
+    },
+    {
+      "code": "PSIDRAP",
+      "name": "Pdam Kabupaten Sidrap"
+    },
+    {
+      "code": "PSERUYAN",
+      "name": "Pdam Kabupaten Seruyan"
+    },
+    {
+      "code": "PTIRTADELISERDANG",
+      "name": "Pdam Tirta Deli Serdang"
+    },
+    {
+      "code": "PSERANG",
+      "name": "Pdam Kabupaten Serang"
+    },
+    {
+      "code": "PTIRRASRO",
+      "name": "Pdam Tirta Sako Batuah Kabupaten Sarolangun"
+    },
+    {
+      "code": "PSANGGAU",
+      "name": "Pdam Kabupaten Sanggau"
+    },
+    {
+      "code": "PTIRTADARMAPURWAKARTA",
+      "name": "Pdam Tirta Darma Kabupaten Purwakarta"
+    },
+    {
+      "code": "PTIRTAPRABUYAPRABUMULIH",
+      "name": "Pdam Tirta Prabujaya Prabumulih"
+    },
+    {
+      "code": "PPOLMAN",
+      "name": "Pdam Kabupaten Polman"
+    },
+    {
+      "code": "PTIRTABERKAHPANDEGLANG",
+      "name": "Pdam Tirta Berkah Kabupaten Pandeglang"
+    },
+    {
+      "code": "PPAMEKASAN",
+      "name": "Pdam Kabupaten Pamekasan"
+    },
+    {
+      "code": "PPADANGPARIAMAN",
+      "name": "Pdam Kabupaten Padang Pariaman"
+    },
+    {
+      "code": "PPACTITAN",
+      "name": "Pdam Kabupaten Pactitan"
+    },
+    {
+      "code": "POKUTSELATAN",
+      "name": "Pdam Kabupaten Oku Selatan"
+    },
+    {
+      "code": "POKUBATURAJA",
+      "name": "Pdam Oku Baturaja"
+    },
+    {
+      "code": "POGANILIR",
+      "name": "Pdam Kabupaten Ogan Ilir"
+    },
+    {
+      "code": "PNGAWI",
+      "name": "Pdam Kabupaten Ngawi"
+    },
+    {
+      "code": "PTIRTARANDIKSEKAYU",
+      "name": "Pdam Tirta Randik Sekayu"
+    },
+    {
+      "code": "PMUAROJAMBI",
+      "name": "Pdam Kabupaten Muaro Jambi"
+    },
+    {
+      "code": "PLAMATANGENIMMUARA",
+      "name": "Pdam Lematang Enim Muara Enim"
+    },
+    {
+      "code": "PPEKALONGAN",
+      "name": "Pdam Kabupaten Pekalongan"
+    },
+    {
+      "code": "PPOLEWALIMANDAR",
+      "name": "Pdam Kabupaten Polewali Mandar"
+    },
+    {
+      "code": "PPONOROGO",
+      "name": "Pdam Kabupaten Ponorogo"
+    },
+    {
+      "code": "PPROBOLINGGO",
+      "name": "Pdam Kabupaten Probolinggo"
+    },
+    {
+      "code": "PPURBALINGGA",
+      "name": "Pdam Kabupaten Purbalingga"
+    },
+    {
+      "code": "PPURWOREJO",
+      "name": "Pdam Kabupaten Purworejo"
+    },
+    {
+      "code": "PREMBANG",
+      "name": "Pdam Kabupaten Rembang"
+    },
+    {
+      "code": "PSAMPANG",
+      "name": "Pdam Kabupaten Sampang"
+    },
+    {
+      "code": "PSEMARANG",
+      "name": "Pdam Kabupaten Semarang"
+    },
+    {
+      "code": "PSIDUARJO",
+      "name": "Pdam Kabupaten Sidoarjo"
+    },
+    {
+      "code": "PSITUBONDO",
+      "name": "Pdam Kabupaten Situbondo"
+    },
+    {
+      "code": "PSLEMAN",
+      "name": "Pdam Kabupaten Sleman"
+    },
+    {
+      "code": "PSUBANG",
+      "name": "Pdam Kabupaten Subang"
+    },
+    {
+      "code": "PSUKABUMI",
+      "name": "Pdam Kabupaten Sukabumi"
+    },
+    {
+      "code": "PSUKOHARJO",
+      "name": "Pdam Kabupaten Sukoharjo"
+    },
+    {
+      "code": "PSUMEDANG",
+      "name": "Pdam Kabupaten Sumedang"
+    },
+    {
+      "code": "PTAKALAR",
+      "name": "Pdam Kabupaten Takalar"
+    },
+    {
+      "code": "PTAPIN",
+      "name": "Pdam Kabupaten Tapin"
+    },
+    {
+      "code": "PTASIKMALAYA",
+      "name": "Pdam Kabupaten Tasikmalaya"
+    },
+    {
+      "code": "PTEMANGGUNG",
+      "name": "Pdam Kabupaten Temanggung"
+    },
+    {
+      "code": "PWONOGIRI",
+      "name": "Pdam Kabupaten Wonogiri"
+    },
+    {
+      "code": "PWONOSOBO",
+      "name": "Pdam Kabupaten Wonosobo"
+    },
+    {
+      "code": "PBALIKPAPAN",
+      "name": "Pdam Kota Balikpapan"
+    },
+    {
+      "code": "PBANDARLAMPUNG",
+      "name": "Pdam Kota Bandar Lampung"
+    },
+    {
+      "code": "PBANDUNG",
+      "name": "Pdam Kota Bandung"
+    },
+    {
+      "code": "PKOTABANJAR",
+      "name": "Pdam Kota Banjar"
+    },
+    {
+      "code": "PKOTABANJARMASING",
+      "name": "Pdam Kota Banjarmasin"
+    },
+    {
+      "code": "PKOTABEKASI",
+      "name": "Pdam Kota Bekasi"
+    },
+    {
+      "code": "PKOTABOGOR",
+      "name": "Pdam Kota Bogor"
+    },
+    {
+      "code": "PKOTACIREBON",
+      "name": "Pdam Kota Cirebon"
+    },
+    {
+      "code": "PKOTADENPASAR",
+      "name": "Pdam Kota Denpasar"
+    },
+    {
+      "code": "PKOTADEPOK",
+      "name": "Pdam Kota Depok"
+    },
+    {
+      "code": "PKOTAJAYAPURA",
+      "name": "Pdam Kota Jayapura"
+    },
+    {
+      "code": "PKOTAKEDIRI",
+      "name": "Pdam Kota Kediri"
+    },
+    {
+      "code": "PKOTAMADIUN",
+      "name": "Pdam Kota Madiun"
+    },
+    {
+      "code": "PKOTAMALANG",
+      "name": "Pdam Kota Malang"
+    },
+    {
+      "code": "PKOTAMANADO",
+      "name": "Pdam Kota Manado"
+    },
+    {
+      "code": "KABMATARAM",
+      "name": "Pdam Kota Mataram"
+    },
+    {
+      "code": "KABMEDAN",
+      "name": "Pdam Kota Medan"
+    },
+    {
+      "code": "PKOTAPALEMBANG",
+      "name": "Pdam Kota Palembang"
+    },
+    {
+      "code": "PKOTAPASURUAN",
+      "name": "Pdam Kota Pasuruan"
+    },
+    {
+      "code": "PKOTAPROBOLINGGO",
+      "name": "Pdam Kota Probolinggo"
+    },
+    {
+      "code": "PKOTASALATIGA",
+      "name": "Pdam Kota Salatiga"
+    },
+    {
+      "code": "PKOTASAMARINDA",
+      "name": "Pdam Kota Samarinda"
+    },
+    {
+      "code": "PKOTASEMARANG",
+      "name": "Pdam Kota Semarang"
+    },
+    {
+      "code": "PKOTASURABAYA",
+      "name": "Pdam Kota Surabaya"
+    },
+    {
+      "code": "PKOTASURAKARTA",
+      "name": "Pdam Kota Surakarta"
+    },
+    {
+      "code": "PKOTATANGERANG",
+      "name": "Pdam Kota Tangerang"
+    },
+    {
+      "code": "PPALYAJAKARTA",
+      "name": "Pdam Palyja Jakarta"
+    },
+    {
+      "code": "PPANGKALANBUN",
+      "name": "Pdam Pangkalan Bun"
+    },
+    {
+      "code": "PTIRTAKHAYANGAN",
+      "name": "Pdam Tirta Khayangan"
+    },
+    {
+      "code": "PTIRTANADIMEDAN",
+      "name": "Pdam Tirtanadi Medan"
+    },
+    {
+      "code": "PTIRTAINTANGARUT",
+      "name": "Pdam Tirta Intan Kabupaten Garut"
+    },
+    {
+      "code": "PPONTIANAK",
+      "name": "Pdam Pontianak"
+    },
+    {
+      "code": "PSINGKAWANG",
+      "name": "Pdam Singkawang"
+    },
+    {
+      "code": "PDEMAK",
+      "name": "Pdam Kabupaten Demak"
+    },
+    {
+      "code": "PBERAU",
+      "name": "Pdam Kabupaten Berau"
+    },
+    {
+      "code": "TIRTATAMIANGACEHTAMIANG",
+      "name": "Pdam Tirta Tamiang Kab Aceh Tamiang"
+    },
+    {
+      "code": "PTIRTAMONPASELHOKSEUMAWE",
+      "name": "Pdam Tirta Monpase Lhokseumawe"
+    },
+    {
+      "code": "PDAM13",
+      "name": "Pdam Kabupaten Agam"
+    },
+    {
+      "code": "PPANCURANTELAGOMUARABUNGO",
+      "name": "Pdam Pancuran Telago Muarabungo"
+    },
+    {
+      "code": "PMEMPAWAH",
+      "name": "Pdam Kabupaten Mempawah"
+    },
+    {
+      "code": "KABMAROS",
+      "name": "Pdam Kabupaten Maros"
+    },
+    {
+      "code": "PTIRTAKOMODOMANGGARAI",
+      "name": "Pdam Tirta Komodo Kabupaten Manggarai"
+    },
+    {
+      "code": "PMALUKUTENGGARA",
+      "name": "Pdam Kabupaten Maluku Tenggara"
+    },
+    {
+      "code": "PMALINAU",
+      "name": "Pdam Kabupaten Malinau"
+    },
+    {
+      "code": "PMAGETAN",
+      "name": "Pdam Kabupaten Magetan"
+    },
+    {
+      "code": "PLUWUTIMUT",
+      "name": "Pdam Kabupaten Luwu Timur"
+    },
+    {
+      "code": "PMAJALENGKA",
+      "name": "Pdam Kabupaten Majalengka"
+    },
+    {
+      "code": "PMAGELANG",
+      "name": "Pdam Kabupaten Magelang"
+    },
+    {
+      "code": "PDAM7",
+      "name": "Pdam Belopa Kabupaten Luwu"
+    },
+    {
+      "code": "PLOMBOKTIMUR",
+      "name": "Pdam Kabupaten Lombok Timur"
+    },
+    {
+      "code": "PLIMAPULUHKOTA",
+      "name": "Pdam Kabupaten Limapuluh Kota"
+    },
+    {
+      "code": "PTTIRTALAMPUNG",
+      "name": "Pdam Tirta Jasa Kalianda Kabupaten Lampung Selatan"
+    },
+    {
+      "code": "PLAMONGAN",
+      "name": "Pdam Kabupaten Lamongan"
+    },
+    {
+      "code": "PKAMADA",
+      "name": "Pdam Kabupaten Lamandau"
+    },
+    {
+      "code": "PKUTAIKARTANEGARA",
+      "name": "Pdam Kabupaten Kutai Kertanegara"
+    },
+    {
+      "code": "PTIRTASENDAWARKUTAIBARAT",
+      "name": "Pdam Tirta Sendawar Kabupaten Kutai Barat"
+    },
+    {
+      "code": "PKUPANG",
+      "name": "Pdam Kabupaten Kupang"
+    },
+    {
+      "code": "PKUDUS",
+      "name": "Pdam Kabupaten Kudus"
+    },
+    {
+      "code": "PKOLAKA",
+      "name": "Pdam Kabupaten Kolaka"
+    },
+    {
+      "code": "PKOLAKAUTARA",
+      "name": "Pdam Kabupaten Kolaka Utara"
+    },
+    {
+      "code": "PKETAPANG",
+      "name": "Pdam Kabupaten Ketapang"
+    },
+    {
+      "code": "PKERINCI",
+      "name": "Pdam Kabupaten Kerinci"
+    },
+    {
+      "code": "PKEDIRI",
+      "name": "Pdam Kabupaten Kediri"
+    },
+    {
+      "code": "PKAPUASHULU",
+      "name": "Pdam Kabupaten Kapuas Hulu"
+    },
+    {
+      "code": "PJEMBRANA",
+      "name": "Pdam Kabupaten Jembrana"
+    },
+    {
+      "code": "PHULUSUNGAIUTARAAMUNTAI",
+      "name": "Pdam Kabupaten Hulu Sungai Utara Amuntai"
+    },
+    {
+      "code": "PHALMAHERAUTARA",
+      "name": "Pdam Kabupaten Halmahera Utara"
+    },
+    {
+      "code": "PGUNUNGKIDUL",
+      "name": "Pdam Kabupaten Gunung Kidul"
+    },
+    {
+      "code": "PDAM1",
+      "name": "Pdam Aetra"
+    },
+    {
+      "code": "PGORONTALOLIMBOTO",
+      "name": "Pdam Kabupaten Gorontalo Limboto"
+    },
+    {
+      "code": "PGORONTALO",
+      "name": "Pdam Kabupaten Gorontalo"
+    },
+    {
+      "code": "PGIANYARNONAIR",
+      "name": "Pdam Kabupaten Gianyar Non Air"
+    },
+    {
+      "code": "PGIANYAR",
+      "name": "Pdam Kabupaten Gianyar"
+    },
+    {
+      "code": "PENREKANG",
+      "name": "Pdam Kabupaten Enrekang"
+    },
+    {
+      "code": "PDOMPU",
+      "name": "Pdam Kabupaten Dompu"
+    },
+    {
+      "code": "PBUTON",
+      "name": "Pdam Kabupaten Buton"
+    },
+    {
+      "code": "PBULUNGANTANJUNGSELOR",
+      "name": "Pdam Kabupaten Bulungan Tanjungselor"
+    },
+    {
+      "code": "PBONEBOLANGO",
+      "name": "Pdam Kabupaten Bone Bolango"
+    },
+    {
+      "code": "PBONE",
+      "name": "Pdam Kabupaten Bone"
+    },
+    {
+      "code": "PBENGKAYANG",
+      "name": "Pdam Kabupaten Bengkayang"
+    },
+    {
+      "code": "PTIRTADHAEMABELITUNGTIMUR",
+      "name": "Pdam Tirta Dharma Kabupaten Belitung Timur"
+    },
+    {
+      "code": "KABBATANGHARI",
+      "name": "Pdam Kabupaten Batanghari"
+    },
+    {
+      "code": "PTIRTABETUAHBANYUASIN",
+      "name": "Pdam Tirta Betuah Banyuasin"
+    },
+    {
+      "code": "KABBANTUL",
+      "name": "Pdam Kabupaten Bantul"
+    },
+    {
+      "code": "BANGKABARAT",
+      "name": "Pdam Kabupaten Bangka Barat"
+    },
+    {
+      "code": "PDAMBANGGAI",
+      "name": "Pdam Kabupaten Banggai"
+    },
+    {
+      "code": "TIRTABUANAMERANGIN",
+      "name": "Pdam Tirta Buana Merangin"
+    },
+    {
+      "code": "PDAMMKSR",
+      "name": "Pdam Kota Makassar"
+    },
+    {
+      "code": "PDAMTABU",
+      "name": "Pdam Kabupaten Tanah Bumbu"
+    },
+    {
+      "code": "PDTEMBILAN",
+      "name": "Pdam Tembilahan"
+    },
+    {
+      "code": "PTIRTALEBAK",
+      "name": "Pdam Tirta Multatuli Kabupaten Lebak"
+    },
+    {
+      "code": "PBEKASI",
+      "name": "Pdam Tirta Bhagasasi Kabupaten Bekasi"
+    },
+    {
+      "code": "PMOJO",
+      "name": "Pdam Kota Mojokerto"
+    },
+    {
+      "code": "PINDRAMAYU",
+      "name": "Pdam Kabupaten Indramayu"
+    },
+    {
+      "code": "PPALOPO",
+      "name": "Pdam Kota Palopo"
+    },
+    {
+      "code": "pdamkabru",
+      "name": "Pdam Kab Kuburaya"
+    }
+  ]
+}

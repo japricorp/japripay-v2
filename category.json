@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "name": "pakaian pria"
+        },
+        {
+            "id": "2",
+            "name": "sepatu"
+        },
+        {
+            "id": "3",
+            "name": "herbal"
+        },
+        {
+            "id": "4",
+            "name": "kosmetik"
+        },
+        {
+            "id": "5",
+            "name": "pakaian wanita"
+        },
+        {
+            "id": "6",
+            "name": "pakaian anak anak"
+        },
+        {
+            "id": "9",
+            "name": "celana pria"
+        },
+        {
+            "id": "11",
+            "name": "celana wanita"
+        },
+        {
+            "id": "13",
+            "name": "Property"
+        },
+        {
+            "id": "15",
+            "name": "aksesories"
+        },
+        {
+            "id": "16",
+            "name": "pupuk"
+        },
+        {
+            "id": "18",
+            "name": "Kontent Creator"
+        },
+        {
+            "id": "19",
+            "name": "Jasa"
+        },
+        {
+            "id": "25",
+            "name": "lainnya"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+  "status":1,
+  "data": [
+    {
+      "title": "Siswa Koe",
+      "category": "Paket Koe",
+      "link": "https://bumida.japrime.id/",
+      "image": "https://www.bumida.co.id/storage/img/siswakoe-1590867094.jpg",
+      "price": "20000",
+      "available": "true",
+      "due_date": "25 Agustus 2024",
+      "desc":"Sint incididunt pariatur aliquip ullamco et. Laborum magna ex proident voluptate esse incididunt enim pariatur. Consectetur excepteur ex adipisicing officia laborum minim tempor veniam dolore do. Commodo amet veniam Lorem sit eu velit occaecat sit mollit minim amet deserunt. Sit veniam sit sit cillum eiusmod. Pariatur culpa cillum nulla dolor esse ullamco qui."
+    },
+    {
+      "title": "Karyawan Koe",
+      "category": "Paket Koe",
+      "link": "https://bumida.japrime.id/",
+      "image": "https://www.bumida.co.id/storage/img/karyawankoe-1590989777.jpg",
+      "price": "150000",
+      "available": "true",
+      "due_date": "30 Juni 2024",
+      "desc":"Sint incididunt pariatur aliquip ullamco et. Laborum magna ex proident voluptate esse incididunt enim pariatur. Consectetur excepteur ex adipisicing officia laborum minim tempor veniam dolore do. Commodo amet veniam Lorem sit eu velit occaecat sit mollit minim amet deserunt. Sit veniam sit sit cillum eiusmod. Pariatur culpa cillum nulla dolor esse ullamco qui."
+    },
+    {
+      "title": "Sehat Koe",
+      "category": "Paket Koe",
+      "link": "https://bumida.japrime.id/",
+      "image": "https://www.bumida.co.id/storage/img/sehatkoe-1590990107.jpg",
+      "price": "75000",
+      "available": "true",
+      "due_date": "30 Juni 2024",
+      "desc":"Sint incididunt pariatur aliquip ullamco et. Laborum magna ex proident voluptate esse incididunt enim pariatur. Consectetur excepteur ex adipisicing officia laborum minim tempor veniam dolore do. Commodo amet veniam Lorem sit eu velit occaecat sit mollit minim amet deserunt. Sit veniam sit sit cillum eiusmod. Pariatur culpa cillum nulla dolor esse ullamco qui."
+    },
+    {
+      "title": "Rumah Koe",
+      "category": "Paket Koe",
+      "link": "https://bumida.japrime.id/",
+      "image": "https://www.bumida.co.id/storage/img/rumahkoe-1590989915.jpg",
+      "price": "75000",
+      "available": "true",
+      "due_date": "30 Juni 2024",
+      "desc":"Sint incididunt pariatur aliquip ullamco et. Laborum magna ex proident voluptate esse incididunt enim pariatur. Consectetur excepteur ex adipisicing officia laborum minim tempor veniam dolore do. Commodo amet veniam Lorem sit eu velit occaecat sit mollit minim amet deserunt. Sit veniam sit sit cillum eiusmod. Pariatur culpa cillum nulla dolor esse ullamco qui."
+    },
+    {
+      "title": "Motor Koe",
+      "category": "Paket Koe",
+      "link": "https://bumida.japrime.id/",
+      "image": "https://www.bumida.co.id/storage/img/motorkoe-1590866928.jpg",
+      "price": "65000",
+      "available": "true",
+      "due_date": "30 Juni 2024",
+      "desc":"Sint incididunt pariatur aliquip ullamco et. Laborum magna ex proident voluptate esse incididunt enim pariatur. Consectetur excepteur ex adipisicing officia laborum minim tempor veniam dolore do. Commodo amet veniam Lorem sit eu velit occaecat sit mollit minim amet deserunt. Sit veniam sit sit cillum eiusmod. Pariatur culpa cillum nulla dolor esse ullamco qui."
+    }
+  ]
+}

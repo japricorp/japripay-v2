@@ -1,0 +1,12 @@
+{
+  "primary":{
+    "name":"Server 1",
+    "link":"https://japrichat.com/deni_test/",
+    "product":"https://japrichat.com/produk_deni/",
+    "foto":"https://japrichat.com/foto_members/"
+  },
+  "data":[
+    {"name":"Server  1","link":"https://japrichat.com/deni_test/"},
+    {"name":"Server  2","link":"https://japrichat.com/deni_test_two/"}
+  ]
+}

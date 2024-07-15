@@ -1,0 +1,88 @@
+{
+  "data":[
+    {
+      "id": "83",
+      "code": "PN20",
+      "name": "PLN 20.000",
+      "kategori": "PLN",
+      "jenis": "",
+      "stats": "0",
+      "brand": "PLN",
+      "price": "20150",
+      "sale": "22015",
+      "members": "0",
+      "status": "1",
+      "desc": "masukkan nomor meter/id pelanggan"
+    },
+    {
+      "id": "84",
+      "code": "PN50",
+      "name": "PLN 50.000",
+      "kategori": "PLN",
+      "jenis": "",
+      "stats": "0",
+      "brand": "PLN",
+      "price": "50085",
+      "sale": "52015",
+      "members": "0",
+      "status": "1",
+      "desc": "masukkan nomor meter/id pelanggan"
+    },
+    {
+      "id": "85",
+      "code": "PN100",
+      "name": "PLN 100.000",
+      "kategori": "PLN",
+      "jenis": "",
+      "stats": "0",
+      "brand": "PLN",
+      "price": "100150",
+      "sale": "102015",
+      "members": "0",
+      "status": "1",
+      "desc": "masukkan nomor meter/id pelanggan"
+    },
+    {
+      "id": "86",
+      "code": "PN200",
+      "name": "PLN 200.000",
+      "kategori": "PLN",
+      "jenis": "",
+      "stats": "0",
+      "brand": "PLN",
+      "price": "200150",
+      "sale": "202015",
+      "members": "0",
+      "status": "1",
+      "desc": "masukkan nomor meter/id pelanggan"
+    },
+    {
+      "id": "87",
+      "code": "PN500",
+      "name": "PLN 500.000",
+      "kategori": "PLN",
+      "jenis": "",
+      "stats": "0",
+      "brand": "PLN",
+      "price": "500150",
+      "sale": "503015",
+      "members": "0",
+      "status": "1",
+      "desc": "masukkan nomor meter/id pelanggan"
+    },
+    {
+      "id": "88",
+      "code": "PN1000",
+      "name": "PLN 1.000.000",
+      "kategori": "PLN",
+      "jenis": "",
+      "stats": "0",
+      "brand": "PLN",
+      "price": "1000150",
+      "sale": "1003015",
+      "members": "0",
+      "status": "1",
+      "desc": "masukkan nomor meter/id pelanggan"
+    }
+  ]
+}

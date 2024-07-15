@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "code": "HALLO",
+      "name": "Telkomsel Halo"
+    },
+    {
+      "code": "XLP",
+      "name": "XL Pascabayar"
+    },
+    {
+      "code": "THREEP",
+      "name": "Three Pascabayar"
+    },
+    {
+      "code": "SMARTP",
+      "name": "Smartfren Pascabayar"
+    },
+    {
+      "code": "MATRIX",
+      "name": "Matrix Pascabayar"
+    }
+  ]
+}

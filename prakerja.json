@@ -1,0 +1,50 @@
+{
+  "status":1,
+  "data": [
+    {
+      "title": "Optimalisasi Penggunaan Corel Draw bagi Calon Perancang Grafis (Daring)",
+      "category": "Pembelajaran Online",
+      "link": "https://skills.pintar.co/id/optimalisasi-penggunaan-corel-draw-bagi-calon-perancang-grafis-daring?slug=optimalisasi-penggunaan-corel-draw-bagi-calon-perancang-grafis-daring",
+      "image": "https://japrishop.online/Prakerja/corel.jpg",
+      "price": "1500000",
+      "available": "true",
+      "due_date": "25 Agustus 2024"
+    },
+    {
+      "title": "Menyusun Pemasaran produk dengan Bisnis Model canvas",
+      "category": "Pembelajaran Online",
+      "link": "https://skills.pintar.co/id/menyusun-pemasaran-produk-dengan-bisnis-model-canvas-daring?slug=menyusun-pemasaran-produk-dengan-bisnis-model-canvas-daring",
+      "image": "https://japrishop.online/Prakerja/canva.jpg",
+      "price": "1500000",
+      "available": "true",
+      "due_date": "30 Juni 2024"
+    },
+    {
+      "title": "Strategi Penjualan Daring dan Luring Bagi Manajer Penjualan dan Pemasaran (Luring) Kota Makassar",
+      "category": "Pembelajaran Offline",
+      "link": "https://www.karier.mu/program/strategi-penjualan-daring-dan-luring-bagi-manajer-penjualan-dan-pemasaran",
+      "image": "https://japrishop.online/Prakerja/pemasaran.png",
+      "price": "2500000",
+      "available": "true",
+      "due_date": "30 Juni 2024"
+    },
+    {
+      "title": "Menulis iklan media sosial menggunakan copywriting",
+      "category": "Pembelajaran Online",
+      "link": "https://skills.pintar.co/id/menulis-iklan-media-sosial-menggunakan-copywriting-daring?slug=menulis-iklan-media-sosial-menggunakan-copywriting-daring",
+      "image": "https://japrishop.online/Prakerja/iklan_media.png",
+      "price": "1500000",
+      "available": "true",
+      "due_date": "30 Juni 2024"
+    },
+    {
+      "title": "Paket Balajar Digital Marketing",
+      "category": "Pembelajaran Online",
+      "link": "https://skills.pintar.co/id/strategi-komunikasi-bahasa-inggris-bisnis-untuk-sekretaris?slug=strategi-komunikasi-bahasa-inggris-bisnis-untuk-sekretaris",
+      "image": "https://japrishop.online/Prakerja/bahasa_inggris.jpg",
+      "price": "1500000",
+      "available": "true",
+      "due_date": "30 Juni 2024"
+    }
+  ]
+}

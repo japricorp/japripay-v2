@@ -1,0 +1,64 @@
+{
+  "data":[
+    {
+      "type":1,
+      "code":"pulsa",
+      "name":"Pulsa"
+    },
+    {
+      "type":1,
+      "code":"paket-data",
+      "name":"Paket DAta"
+    },
+    {
+      "type":1,
+      "code":"pln",
+      "name":"Token PLN"
+    },
+    {
+      "type":1,
+      "code":"e-money",
+      "name":"E-Money"
+    },
+    {
+      "type":2,
+      "code":"bpjs",
+      "name":"Bayar BPJS"
+    },
+    {
+      "type":2,
+      "code":"HP PASCABAYAR",
+      "name":"HP Pascabayar"
+    },
+    {
+      "type":2,
+      "code":"INTERNET PASCABAYAR",
+      "name":"Internet Pascabayar"
+    },
+    {
+      "type":2,
+      "code":"MULTIFINANCE",
+      "name":"Bayar Tagihan"
+    },
+    {
+      "type":2,
+      "code":"PBB",
+      "name":"Bayar PBB"
+    },
+    {
+      "type":2,
+      "code":"PDAM",
+      "name":"Bayar PDAM"
+    },
+    {
+      "type":2,
+      "code":"PLN PASCABAYAR",
+      "name":"Bayar PLN"
+    },
+    {
+      "type":2,
+      "code":"TV PASCABAYAR",
+      "name":"Bayar TV"
+    },
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "wacs": "6281220729369",
+  "server": [
+    {
+      "name": "Server Utama",
+      "link": "http://38.54.6.22:3000/api/",
+      "status": 1
+    },
+    {
+      "name": "Server Konter",
+      "link": "http://38.54.6.22:3000/api/",
+      "status": 0
+    }
+  ],
+  "panduan": "https://japrime.id/panduan",
+  "chanel": "https://japrime.id/panduan",
+  "group": "https://japrime.id/panduan",
+  "daftar":"https://japrime.id/landing/link.php?card=",
+  "pending":"https://japrime.id/landing/link.php?card=",
+  "pengumuman":0,
+  "produk":"https://japrichat.com/produk_deni/product/",
+  "image_produk":"https://japrichat.com/produk_deni/",
+  "marquee":"Selamat Datang di Aplikasi Japri Pay Versi 2.0 Aplikasi Marketplace untuk UMKM Indonesia",
+  "pelatihan":1,
+  "bumida":1
+}

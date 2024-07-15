@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Drama",
+            "images": "https://japri.tv/thumbnail/Drama.jpg",
+            "created_at": "2024-05-07T00:00:00.000Z"
+        },
+        {
+            "id": 2,
+            "name": "e-Learning",
+            "images": "https://japri.tv/thumbnail/e-Learning.jpg",
+            "created_at": "2024-05-07T00:00:00.000Z"
+        },
+        {
+            "id": 3,
+            "name": "Komedi",
+            "images": "https://japri.tv/thumbnail/Komedi.jpg",
+            "created_at": "2024-05-07T00:00:00.000Z"
+        },
+        {
+            "id": 4,
+            "name": "Science",
+            "images": "https://japri.tv/thumbnail/Science.jpg",
+            "created_at": "2024-05-07T00:00:00.000Z"
+        },
+        {
+            "id": 5,
+            "name": "Teknologi",
+            "images": "https://japri.tv/thumbnail/Teknologi.jpg",
+            "created_at": "2024-05-07T00:00:00.000Z"
+        },
+        {
+            "id": 6,
+            "name": "Sci-Fi",
+            "images": "https://japri.tv/thumbnail/Sci-Fi.jpg",
+            "created_at": "2024-05-07T00:00:00.000Z"
+        },
+        {
+            "id": 7,
+            "name": "Blogs",
+            "images": "https://japri.tv/thumbnail/Blogs.jpg",
+            "created_at": "2024-05-07T00:00:00.000Z"
+        }
+    ]
+}

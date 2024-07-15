@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "code": "MEGAC",
+      "name": "Mega Central Finance"
+    },
+    {
+      "code": "WOM",
+      "name": "Wom Finance"
+    },
+    {
+      "code": "MEGAF",
+      "name": "Mega Finance"
+    },
+    {
+      "code": "BCA",
+      "name": "Bca Multifinance"
+    },
+    {
+      "code": "BUANA",
+      "name": "Buana Finance"
+    },
+    {
+      "code": "CLIPAN",
+      "name": "Clipan Finance"
+    },
+    {
+      "code": "HMC",
+      "name": "Home Credit Indonesia"
+    },
+    {
+      "code": "PREMI",
+      "name": "Premi Jiwasraya"
+    },
+    {
+      "code": "MNC",
+      "name": "Mnc Finance"
+    },
+    {
+      "code": "SMARTM",
+      "name": "Smart Multi Finance"
+    },
+    {
+      "code": "SMSF",
+      "name": "Sms Finance"
+    },
+    {
+      "code": "RDN",
+      "name": "Radana Finance / Hd Finance"
+    },
+    {
+      "code": "ADRF",
+      "name": "Adira Finance"
+    }
+  ]
+}

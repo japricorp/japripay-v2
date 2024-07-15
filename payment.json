@@ -1,0 +1,16 @@
+{
+  "data":[
+    {"type":1,"name":"PULSA"},
+    {"type":1,"name":"DATA"},
+    {"type":1,"name":"E-MONEY"},
+    {"type":1,"name":"PLN PRABAYAR"},
+    {"type":2,"name":"BPJS"},
+    {"type":2,"name":"HP PASCABAYAR"},
+    {"type":2,"name":"INTERNET PASCABAYAR"},
+    {"type":2,"name":"MULTIFINANCE"},
+    {"type":2,"name":"PBB"},
+    {"type":2,"name":"PDAM"},
+    {"type":2,"name":"PLN PASCABAYAR"},
+    {"type":2,"name":"TV PASCABAYAR"},
+  ]
+}
