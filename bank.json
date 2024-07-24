@@ -1,10 +1,12 @@
 {
-  "data":[
+  "qr":[
     {
       "code":"QRIS",
       "name":"Scan QRIS",
       "icon":"https://japrishop.online/Logobank/Logo_flip.png"
-    },
+    }
+  ],
+  "bank":[
     {
       "code":"BCA",
       "name":"Transfer Bank BCA",
