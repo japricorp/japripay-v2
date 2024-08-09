@@ -3,12 +3,12 @@
   "server": [
     {
       "name": "Server Utama",
-      "link": "http://192.168.100.133:3000/api/",
+      "link": "http://154.41.253.227:3000/api/",
       "status": 1
     },
     {
       "name": "Server Konter",
-      "link": "http://192.168.100.133:3000/api/",
+      "link": "http://154.41.253.227:3000/api/",
       "status": 0
     }
   ],
