@@ -3,22 +3,22 @@
     {
       "price":"10000",
       "code":"DN10000",
-      "desc":"Dana 10000"
+      "desc":"Dana 10.000"
     },
     {
       "price":"20000",
       "code":"PLN20",
-      "desc":"PLN 20000"
+      "desc":"PLN 20.000"
     },
     {
       "price":"25000",
       "code":"PLN25",
-      "desc":"PLN 25000"
+      "desc":"PLN 25.000"
     },
     {
       "price":"50000",
       "code":"DANA50",
-      "desc":"DANA 50000"
+      "desc":"DANA 50.000"
     }
   ]
 }
