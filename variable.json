@@ -4,13 +4,13 @@
     {
       "name": "Server Utama",
       "link": "http://154.41.253.227:3000/api/",
-      "github":"",
+      "github":"https://raw.githubusercontent.com/japricorp/japripay-v2/main/",
       "status": 1
     },
     {
       "name": "Server Konter",
       "link": "http://154.41.253.227:3000/api/",
-      "github":"",
+      "github":"https://raw.githubusercontent.com/japricorp/japripay-v2/main/",
       "status": 0
     }
   ],
