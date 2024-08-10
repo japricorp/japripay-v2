@@ -4,11 +4,13 @@
     {
       "name": "Server Utama",
       "link": "http://154.41.253.227:3000/api/",
+      "github":"",
       "status": 1
     },
     {
       "name": "Server Konter",
       "link": "http://154.41.253.227:3000/api/",
+      "github":"",
       "status": 0
     }
   ],
